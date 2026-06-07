@@ -3,8 +3,7 @@
 A machine learning project to automatically detect fraudulent credit card transactions.
 
 ## Business Context
-Banks can experience significant losses due to fraud, with non-ml solutions such as possibly manual review process too slow and costly to scale. Business is required an 
-automated solution capable of identifying suspicious transactions in real time, without 
+Banks face significant losses due to fraud. Non-ML solutions like manual review are too slow and costly to scale. An automated solution is needed to identify suspicious transactions in real time, without 
 disrupting legitimate customers through unnecessary card blocks. With explainability to 
 regulators as a hard requirement.
 
